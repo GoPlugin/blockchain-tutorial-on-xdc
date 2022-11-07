@@ -5,7 +5,7 @@ require("dotenv").config();
 console.log("log:::privatekey:::", process.env.PRIVATE_KEY);
 
 //Input Parameters to override
-const bookName = "MyFirstBook";
+const bookName = "FinalBook";
 const contractAbi = require("../build/contracts/SampleContract.json").abi;
 const contractAddresss = process.env.CONTRACT_ADDRESS;
 

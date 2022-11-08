@@ -97,4 +97,20 @@ log:::event:::returnValues [
   }
 ]
 ```
+
+- run readMappings - This will enable you to read your public variable which is mapping here
+```
+yarn readMappings
+
+Sample Output
+
+log:::book::: Result {
+  '0': '2',
+  '1': '0x4e1945cEc2539a9be460aB0aa7BdC1EADebde75e',
+  '2': 'MyFirstBook',
+  id: '2',
+  bookOwnedBy: '0x4e1945cEc2539a9be460aB0aa7BdC1EADebde75e',
+  boo
+
+```
 ######  Read LICENSE

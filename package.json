@@ -6,7 +6,8 @@
   "scripts": {
     "addRecord": "node Lessons/1_addRecord.js",
     "viewRecord": "node Lessons/2_viewRecord.js",
-    "readEvents": "node Lessons/3_readEvents.js"
+    "readEvents": "node Lessons/3_readEvents.js",
+    "readMappings": "node Lessons/4_readMapping.js"
   },
   "dependencies": {
     "@goplugin/contracts": "^0.0.2",
